@@ -1,0 +1,103 @@
+.menu a {
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+    color: #575757;
+    font-weight: bold;
+    font-size: 18px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.section1 h1{
+    font-family: 'Lobster Two', cursive;
+    font-weight: bold;
+    color: #333;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+.section1 h1 span{
+    color: #f08e4c;
+}
+.btn{
+    font-size: 16px;
+    padding: 15px 30px;
+    background-image: linear-gradient(to right, #f08e4c, #f55104);
+    color: #fff;
+    font-weight: 700;
+    border-radius: 30px;
+    
+}
+a{
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+.half-width {
+    width: 50%;
+    margin-bottom: 20%;
+}
+.s1-left p{
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #575757;
+    padding: 60px 0;
+    text-align: center;
+}
+.footer h1{
+    color: #fff;
+    font-size: 40px;
+    margin: 0 0 30px;
+}
+.footer span{
+    color: #f08e4c;
+}
+.footer p{
+    font-size: 18px;
+    color: #fff;
+}
+.gradient-text {
+    background-image: linear-gradient(45deg, #f08e4c, #af4261);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+  }
